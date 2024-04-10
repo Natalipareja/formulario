@@ -1,0 +1,12 @@
+#regiration_form fieldset:not(:first-of-type) {
+    display: none;
+}
+form h2{
+    text-align: center;
+}
+label{
+    font-weight: 700;
+}
+input.btn{
+    margin-top: 10px;
+}
